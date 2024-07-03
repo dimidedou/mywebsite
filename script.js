@@ -39,4 +39,3 @@ fetch('./my.txt')
       alert('Το μήνυμα σας αποθηκεύτηκε με επιτυχία!');
     });
   })
-  .catch(error => console.error('Σφάλμα φόρτωσης αρχείου my.txt:', error));
